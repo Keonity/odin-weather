@@ -1,0 +1,1 @@
+console.log(`Welcome To The Eye Of Odin Weather Project`)
